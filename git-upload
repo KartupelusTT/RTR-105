@@ -5,5 +5,5 @@ then git config --global user.email nils.alberts.veide@gmail.com
 git add .
 #git commit -m "20171012_09_55"
 git commit -m $1
-git push orgin master
+git push origin master
 fi
