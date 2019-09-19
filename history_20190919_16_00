@@ -1,0 +1,114 @@
+    1  firefox
+    2  get clone https://github.com/KartupelusTT/RTR-105
+    3  git clone https://github.com/KartupelusTT/RTR-105
+    4  cd
+    5  lsa
+    6  ls
+    7  cd RTR-105/
+    8  ls
+    9  nano README.md 
+   10  ls
+   11  nano git-upload
+   12  ls
+   13  ls -l
+   14  chmod 700 git-upload 
+   15  ls -l
+   16  whereis git-upload
+   17  ./git-upload 
+   18  nano git-upload 
+   19  ./git-upload 20190919_15_00
+   20  ./git-upload 
+   21  nano git-upload 
+   22  ./git-upload 20190919_15_00
+   23  nano git-upload 
+   24  ./git-upload 20190919_15_00
+   25  nano git-upload 
+   26  ./git-upload 
+   27  ./git-upload 20190919_15_00
+   28  ls -lal
+   29  nano git-upload 
+   30  ./git-upload 20190919_15_00
+   31  nano git-upload 
+   32  it
+   33  git
+   34  clean
+   35  cd
+   36  ls-l
+   37  ls -l
+   38  rm -rf RTR-105/
+   39  git clone https://github.com/KartupelusTT/RTR-105
+   40  ls -l
+   41  cd RTR-105/
+   42  ls -l
+   43  clean
+   44  clear
+   45  nano elementary.c
+   46  ls -l
+   47  mkdir darbi
+   48  mv elementary.c darbi/
+   49  cd darbi/
+   50  ls-l
+   51  ls
+   52  ls -l
+   53  clear
+   54  cat elementary.c 
+   55  ls-l
+   56  ls -l
+   57  gcc elementary.c 
+   58  nano elementary.c 
+   59  gcc elementary.c 
+   60  ls -l
+   61  ./a.out
+   62  gcc elementary.c 
+   63  ls -l
+   64  gcc elementary.c -o prg1
+   65  ./prg1 
+   66  ls -l
+   67  nano elementary.c 
+   68  gcc elementary.c -o prg2
+   69  ./prg2 
+   70  ls -l
+   71  nano elementary.c 
+   72  cat prg1
+   73  clear
+   74  cp elementary.c hello.c
+   75  ls -l
+   76  nano hello.c 
+   77  gcc hello.c 
+   78  nano hello.c 
+   79  gcc hello.c 
+   80  gcc hello.c -o hello
+   81  ./hello
+   82  nano hello.c 
+   83  cat hello.c
+   84  nano hello.c 
+   85  gcc hello.c -o hello
+   86  nano hello.c 
+   87  gcc hello.c -o hello
+   88  ./hello 
+   89  gcc hello.c -o hello
+   90  nano hello.c 
+   91  gcc hello.c -o hello
+   92  nano hello.c 
+   93  gcc hello.c -o hello
+   94  nano hello.c 
+   95  gcc hello.c -o hello
+   96  nano hello.c 
+   97  gcc hello.c -o hello
+   98  ./hello 
+   99  clear
+  100  cd
+  101  cd RTR-105/
+  102  cd darbi/
+  103  ls -l
+  104  rm prg*
+  105  ls -l
+  106  rm a.out 
+  107  rm hello
+  108  ls -l
+  109  cd
+  110  cd RTR-105/
+  111  ls- l
+  112  ls -l
+  113  history> history_20190919_16_00
+  114  history > history_20190919_16_00
