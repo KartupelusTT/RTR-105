@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+float pi(){return 3.14;}
+void main(){
+	int R;
+	printf("Lūdzu ievadat riņķa rādiusu");
+	scanf("%d", R);
+	printf("Riņķim ar rādisu %d ir riņķa līnijas garums %d metri\n", R, L);
+
+}
