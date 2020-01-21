@@ -138,44 +138,4 @@ Diemžēl nepietika laika lai noskaidrotu, kas vainas programmai kādēļ rodas 
 gala Gnuplot atēlā netiks iekļauta 5.kolona jo tās kļūdas dēļ nav uztverami pārējie dati  
 
 ### Figures
-![Bildes apraksts](darbi/3ld_atvasinajums/gnuplot_plot.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ha, ha, hā jūs notināt tik zemu, bet nu pa spīti dotajam papildus laikam nebiju spējīgs izpildīt darbu kā nākas...
+![Bildes apraksts](https://github.com/KartupelusTT/RTR-105/blob/master/darbi/3ld_atvasinajums/gnuplot_plot.png)
