@@ -1,7 +1,7 @@
 # 5. laboratorijas darba - Teilora rindas Skaitļu kopas kartošana- atskaite
 
 ## Teorija
-Teorija  
+Ar šāda veida algoritmu ir iespējams sakārtot un izanalizēt jebkādu skaitļu, ciparu rindu.
 
 ### Kods
 ```
@@ -155,6 +155,6 @@ ________________________________________________________________
 ```
 
 ### Analiize
-Rezultāti manuprāt atbilst perfekti prasībām
+Rezultāti manuprāt atbilst perfekti prasībām, un man pat gribētos teikt ka arī skaisti izskatās.
 ### Bildes
-![Bildes apraksts](https://raw.githubusercontent.com/tatusmatrix/RTR223f/master/2018_2019/images/CW1_1_1_EN.PNG)
+![Bildes apraksts](https://github.com/KartupelusTT/RTR-105/blob/master/darbi/16_ned/WhatsApp%20Image%202020-01-22%20at%2016.06.02.jpeg)
